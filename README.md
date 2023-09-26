@@ -28,7 +28,7 @@
 ![image](https://github.com/DarioLopez18/TypeScript/blob/main/desktop.png)
 
 # Vista responsive
-*En la tabla se genera un scroll, que nos permite deslizar y visualizar todos los campos de la tabla
+* En la tabla se genera un scroll, que nos permite deslizar y visualizar todos los campos de la tabla
 ![image](https://github.com/DarioLopez18/TypeScript/blob/main/Responsive.png)
 
 # Datos del alumno👨‍🎓:
