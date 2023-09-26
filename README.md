@@ -23,6 +23,10 @@
 # Vista mientras se consulta la API y el spinner está corriendo: 
 ![image](https://github.com/DarioLopez18/TypeScript/blob/main/loader.png)
 
+# Vista cuando ya se completó la búsqueda y se dibujó la tabla:
+
+![image](https://github.com/DarioLopez18/TypeScript/blob/main/desktop.png)
+
 # Datos del alumno👨‍🎓:
 
 * Nombre: Lopez, Dario Angel Jose
