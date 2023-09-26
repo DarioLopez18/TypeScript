@@ -29,7 +29,7 @@
 
 # Vista responsive
 
-![image](https://github.com/DarioLopez18/TypeScript/blob/main/responsive.png)
+![image](https://github.com/DarioLopez18/TypeScript/blob/main/Responsive.png)
 
 # Datos del alumno👨‍🎓:
 
