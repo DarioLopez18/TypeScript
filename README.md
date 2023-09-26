@@ -20,6 +20,8 @@
 * Una vez que traemos los productos quitamos el spinner y dibujamos una tabla con los 20 productos.
 * La tabla es totalmente responsiva, adaptándose a distintas resoluciones de pantalla. 
 
+# Vista mientras se consulta la API y el spinner está corriendo: 
+![image](https://github.com/DarioLopez18/TypeScript/blob/main/loader.png)
 
 # Datos del alumno👨‍🎓:
 
