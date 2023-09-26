@@ -1,0 +1,15 @@
+{
+  "name": "tptypescript",
+  "version": "1.0.0",
+  "description": "Trabajo practico de TypeScript Desarrollo de Software 2023",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc ./index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dario Lopez",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  }
+}
