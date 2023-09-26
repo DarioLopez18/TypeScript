@@ -27,6 +27,10 @@
 
 ![image](https://github.com/DarioLopez18/TypeScript/blob/main/desktop.png)
 
+# Vista responsive
+
+![image](https://github.com/DarioLopez18/TypeScript/blob/main/responsive.png)
+
 # Datos del alumno👨‍🎓:
 
 * Nombre: Lopez, Dario Angel Jose
